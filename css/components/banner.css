@@ -1,0 +1,18 @@
+.banner {
+    background-image: url(../../images/skatespot_barcelona_macba_banner.jpg);
+    background-size: cover;
+    background-position: center;
+    padding: 200px 0;
+}
+
+.banner h1 {
+  color:white;
+  margin: 0;
+}
+
+.banner p {
+  color: white;
+  margin-top: 0;
+
+}
+
